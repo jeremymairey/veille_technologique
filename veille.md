@@ -8,3 +8,7 @@ Dassault Aviation a choisi l’entreprise française Bleu pour déployer un « c
 
 ## 09/01/2026 | Google Cloud et Palo Alto Networks signent un partenariat stratégique en cybersécurité | zonebourse.com
 Google Cloud a conclu un accord pluriannuel avec Palo Alto Networks, estimé à près de 10 milliards de dollars. Ce partenariat vise à intégrer des solutions avancées de cybersécurité directement dans l’écosystème Google Cloud, avec une utilisation accrue de l’intelligence artificielle. Palo Alto Networks prévoit également de migrer une partie de ses services vers l’infrastructure de Google. L’objectif est de répondre à la demande croissante des entreprises pour des offres cloud sécurisées et intégrées. Cet accord renforce la position de Google Cloud face à AWS et Microsoft Azure.
+
+## 16/01/2026 | AWS dévoile un cloud européen souverain | clubic.com
+
+Amazon Web Services annonce le lancement d’un cloud européen totalement indépendant de ses autres infrastructures mondiales, afin de répondre aux enjeux de souveraineté numérique. Hébergées, opérées et administrées exclusivement depuis l’Union européenne, les données ne seront soumises à aucune législation extra-européenne. Cette initiative vise surtout les administrations et secteurs très régulés, soucieux de contrôle, de sécurité et de conformité.
