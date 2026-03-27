@@ -12,3 +12,7 @@ Google Cloud a conclu un accord pluriannuel avec Palo Alto Networks, estimé à 
 ## 16/01/2026 | AWS dévoile un cloud européen souverain | clubic.com
 
 Amazon Web Services annonce le lancement d’un cloud européen totalement indépendant de ses autres infrastructures mondiales, afin de répondre aux enjeux de souveraineté numérique. Hébergées, opérées et administrées exclusivement depuis l’Union européenne, les données ne seront soumises à aucune législation extra-européenne. Cette initiative vise surtout les administrations et secteurs très régulés, soucieux de contrôle, de sécurité et de conformité.
+
+## 27/03/2026 | La France accélère le cloud souverain | clubic.com
+
+L’État français accélère fortement son passage au cloud, avec 84 millions d’€ de commandes en 2025 (+62 %) et des centaines de projets publics concernés. La règle impose désormais que tous les nouveaux projets passent par le cloud, ce qui généralise son usage dans les services publics (SAMU, cartes, élections…). Surtout, 99 % des projets privilégient des fournisseurs européens, marquant un choix clair de souveraineté numérique face aux géants américains. La France confirme une stratégie assumée de cloud souverain, avec une adoption rapide et une volonté de reprendre le contrôle des données sensibles.
