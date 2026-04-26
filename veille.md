@@ -17,6 +17,6 @@ Amazon Web Services annonce le lancement d’un cloud européen totalement indé
 
 L’État français accélère fortement son passage au cloud, avec 84 millions d’€ de commandes en 2025 (+62 %) et des centaines de projets publics concernés. La règle impose désormais que tous les nouveaux projets passent par le cloud, ce qui généralise son usage dans les services publics (SAMU, cartes, élections…). Surtout, 99 % des projets privilégient des fournisseurs européens, marquant un choix clair de souveraineté numérique face aux géants américains. La France confirme une stratégie assumée de cloud souverain, avec une adoption rapide et une volonté de reprendre le contrôle des données sensibles.
 
-## 23/04/2026 | La France rapatrie ses données de santé vers un cloud souverain | Reuters
+## 23/04/2026 | La France rapatrie ses données de santé vers Scaleway | reuters.com
 
 La France a décidé de transférer son Health Data Hub depuis Microsoft Azure vers le fournisseur français Scaleway, afin de mieux protéger les données sensibles de santé. Cette décision s’inscrit dans une stratégie plus large de souveraineté numérique en Europe, avec une volonté de réduire la dépendance aux géants américains et de garantir que les données restent soumises au droit européen.
