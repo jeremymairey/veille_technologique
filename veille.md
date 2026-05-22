@@ -20,3 +20,7 @@ L’État français accélère fortement son passage au cloud, avec 84 millions 
 ## 23/04/2026 | La France rapatrie ses données de santé vers Scaleway | reuters.com
 
 La France a décidé de transférer son Health Data Hub depuis Microsoft Azure vers le fournisseur français Scaleway, afin de mieux protéger les données sensibles de santé. Cette décision s’inscrit dans une stratégie plus large de souveraineté numérique en Europe, avec une volonté de réduire la dépendance aux géants américains et de garantir que les données restent soumises au droit européen.
+
+## 22/05/2026 | Infomaniak verrouille son indépendance via une fondation pour protéger son cloud souverain | zdnet.fr
+
+Infomaniak a transféré la majorité de ses droits de vote à une fondation d’utilité publique pour verrouiller son indépendance et empêcher un rachat. Cette structure garantit que l’entreprise reste fidèle à sa mission de cloud souverain européen, centré sur la confidentialité, l’open source et une approche plus responsable du numérique, tout en protégeant sa stratégie sur le long terme.
